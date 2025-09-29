@@ -1,5 +1,5 @@
 # MI TITULO
 ## SUBTITULO
 <!-- FORMATOS -->
-* cursiva*
-* *negrita**
+*cursiva*
+**negrita**
