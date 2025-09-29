@@ -1,8 +1,10 @@
 # MI TITULO
 ## SUBTITULO
+
 <!-- FORMATOS -->
 *cursiva*
 **negrita**
+
 <!-- listas -->
 * Manzana
 * Naranja
