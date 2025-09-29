@@ -5,7 +5,7 @@
 *cursiva*
 **negrita**
 
-<!-- listas -->
+<!-- Listas -->
 * Manzana
 * Naranja
 * Melon
@@ -17,4 +17,5 @@
          1. Piel de sapo
          2. De galia
 
+<!-- Enlaces -->
 [fprodrigocaro](https://fprodrigocaro.org)
