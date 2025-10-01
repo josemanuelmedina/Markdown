@@ -28,4 +28,8 @@
 
 <!-- Codigo -->
 `apt install apache2`
-
+```
+apt update
+apt upgrade
+apt install apache2
+```
