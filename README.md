@@ -47,3 +47,5 @@ fi
 |Manuel    | Dominguez   |  
 
 ![Goku](https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/GokumangaToriyama.png/250px-GokumangaToriyama.png)
+
+![Mazinger Z](C:\Users\jmmmb\Downloads\img)
