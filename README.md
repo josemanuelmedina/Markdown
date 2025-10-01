@@ -33,3 +33,11 @@ apt update
 apt upgrade
 apt install apache2
 ```
+<!-- codigo con colores -->
+```sh
+#!/bin/bash
+if [ ! -d "$directorio" ]
+   then
+      mkdir "$directorio"
+fi
+```
